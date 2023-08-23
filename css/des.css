@@ -1,0 +1,68 @@
+body{
+    background-color:lightgray;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+.main{
+    margin: 0 300px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    padding: 0%;
+}
+.home{
+    display: flex;
+    justify-content: end;
+   
+}
+.heading{
+   text-align: center;
+   margin-top: 327px;
+   
+}
+.heading h1{
+   font-weight: lighter;
+   margin: 0 30px;
+}
+.heading h3{
+    color: gray;
+    font-weight: lighter;
+
+}
+.heading button {
+    border-radius: 45px;
+    padding:17px;
+    border-color:rgb(180, 177, 177);
+}
+.heading button a{
+    margin:15px;
+    text-decoration: none;
+    color: black;
+}
+.heading button:hover{
+    background-color: rgb(180, 177, 177);
+    color: black;
+}
+.main img{
+    height: 736px;
+    width: 516px;
+    margin-right: 0px;
+
+}
+
+#navbar{
+   
+    font-size: 20px;
+    text-align: center;
+    background-color: dimgray;
+    color: white;
+}
+.work img{
+    height: 100vh;
+    width: 100%;
+}
+.sec{
+    text-align: center;
+}

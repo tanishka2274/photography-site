@@ -1,0 +1,26 @@
+body{
+    background-color:white;
+}
+.home{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+   
+}
+
+.heading{
+    
+    margin-top: 100px;
+    margin-bottom: 60px;
+    
+ }
+.main{
+    margin: 0;
+}
+
+.main img{
+  height: 100%;
+  width: 100vw;
+}
+
+
